@@ -1,2 +1,2 @@
 # New project
-this project created by Nikhil kumar
+this project created by Nikhil kumar.
